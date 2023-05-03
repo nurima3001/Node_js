@@ -1,0 +1,12 @@
+{
+  "name": "20.error-handling",
+  "version": "1.0.0",
+  "description": "",
+  "main": "indeks.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nurima",
+  "license": "ISC",
+  "type" : "module"
+}

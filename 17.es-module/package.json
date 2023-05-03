@@ -1,0 +1,11 @@
+{
+  "name": "17.es-module",
+  "version": "1.0.0",
+  "description": "Belajar Ecma Script",
+  "main": "math.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nurima",
+  "license": "ISC"
+}
